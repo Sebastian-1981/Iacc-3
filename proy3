@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Colegio Santa Ines</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Colegio Santa Ines &raquo; Feed" href="http://localhost/ColegioSI/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Colegio Santa Ines &raquo; Feed de los comentarios" href="http://localhost/ColegioSI/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/ColegioSI\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css' href='http://localhost/ColegioSI/wp-includes/css/dashicons.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='http://localhost/ColegioSI/wp-includes/css/admin-bar.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.10.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://localhost/ColegioSI/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='wpzoom-blocks-css-style-portfolio-css' href='http://localhost/ColegioSI/wp-content/plugins/wpzoom-portfolio/build/blocks/portfolio/style.css?ver=4c4f33791e2c67989dbf2e66dc682ed7' media='' />
+<link rel='stylesheet' id='wpzoom-blocks-css-style-portfolio_layouts-css' href='http://localhost/ColegioSI/wp-content/plugins/wpzoom-portfolio/build/blocks/portfolio-layouts/style.css?ver=c93e1888c3baa591588b6596e515e8be' media='' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://localhost/ColegioSI/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://localhost/ColegioSI/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='essensial-blocks-animation-css' href='http://localhost/ColegioSI/wp-content/plugins/essential-blocks/assets/css/animate.min.css?ver=3.8.6' media='all' />
+<link rel='stylesheet' id='wpgp-youtube-gallery-css' href='http://localhost/ColegioSI/wp-content/plugins/video-gallery-playlist/public/css/wpgp-youtube-gallery-public.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='inspiro-google-fonts-css' href='http://localhost/ColegioSI/wp-content/fonts/083d396217730e791240f3c96661738c.css?ver=1.7.8' media='all' />
+<link rel='stylesheet' id='inspiro-style-css' href='http://localhost/ColegioSI/wp-content/themes/inspiro/assets/css/minified/style.min.css?ver=1.7.8' media='all' />
+<style id='inspiro-style-inline-css'>
+body, button, input, select, textarea {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+}
+@media screen and (min-width: 782px) {
+body, button, input, select, textarea {
+font-size: 16px;
+line-height: 1.8;
+} }
+body:not(.wp-custom-logo) a.custom-logo-text {
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+text-transform: uppercase;
+}
+@media screen and (min-width: 782px) {
+body:not(.wp-custom-logo) a.custom-logo-text {
+font-size: 26px;
+line-height: 1.8;
+} }
+h1, h2, h3, h4, h5, h6, .home.blog .entry-title, .page .entry-title, .page-title, #comments>h3, #respond>h3, .entry-footer {
+font-weight: 700;
+line-height: 1.4;
+}
+.site-title {
+font-family: 'Inter', sans-serif;
+font-weight: 700;
+line-height: 1.25;
+}
+@media screen and (min-width: 782px) {
+.site-title {
+font-size: 80px;
+} }
+.site-description {
+font-family: 'Inter', sans-serif;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.site-description {
+font-size: 20px;
+} }
+.custom-header-button {
+font-family: 'Inter', sans-serif;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.custom-header-button {
+font-size: 16px;
+} }
+.navbar-nav a {
+font-family: 'Montserrat', sans-serif;
+font-weight: 500;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.navbar-nav a {
+font-size: 16px;
+} }
+@media screen and (max-width: 64em) {
+.navbar-nav li a {
+font-family: 'Montserrat', sans-serif;
+font-size: 16px;
+font-weight: 600;
+text-transform: uppercase;
+line-height: 1.8;
+} }
+
+</style>
+<link rel='stylesheet' id='__EPYT__style-css' href='http://localhost/ColegioSI/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.1.4.1' media='all' />
+<style id='__EPYT__style-inline-css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.10.1' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='http://localhost/ColegioSI/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.5.2' media='all' />
+<link rel='stylesheet' id='video-conferencing-with-zoom-api-css' href='http://localhost/ColegioSI/wp-content/plugins/video-conferencing-with-zoom-api/assets/public/css/style.min.css?ver=4.0.11' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='select2-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=4.0.13' media='all' />
+<link rel='stylesheet' id='um_crop-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_modal-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_styles-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_profile-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_account-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_misc-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_fileupload-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_datetime-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_raty-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_tipsy-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_responsive-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='um_default_css-css' href='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.5.3' media='all' />
+<script id='essensial-blocks-blocks-localize-js-extra'>
+var EssentialBlocksLocalize = {"eb_plugins_url":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.1","eb_admin_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/","rest_rootURL":"http:\/\/localhost\/ColegioSI\/wp-json\/","ajax_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin-ajax.php","enabled_blocks":{"accordion":{"label":"Accordion","value":"accordion","visibility":"true"},"button":{"label":"Button","value":"button","visibility":"true"},"call_to_action":{"label":"Call To Action","value":"call_to_action","visibility":"true"},"countdown":{"label":"Countdown","value":"countdown","visibility":"true"},"dual_button":{"label":"Dual Button","value":"dual_button","visibility":"true"},"flipbox":{"label":"Flipbox","value":"flipbox","visibility":"true"},"advanced_heading":{"label":"Advanced Heading","value":"advanced_heading","visibility":"true"},"image_comparison":{"label":"Image Comparison","value":"image_comparison","visibility":"true"},"image_gallery":{"label":"Image Gallery","value":"image_gallery","visibility":"true"},"infobox":{"label":"Infobox","value":"infobox","visibility":"true"},"instagram_feed":{"label":"Instagram Feed","value":"instagram_feed","visibility":"true"},"interactive_promo":{"label":"Interactive Promo","value":"interactive_promo","visibility":"true"},"notice":{"label":"Notice","value":"notice","visibility":"true"},"parallax_slider":{"label":"Parallax Slider","value":"parallax_slider","visibility":"true"},"pricing_table":{"label":"Pricing Table","value":"pricing_table","visibility":"true"},"progress_bar":{"label":"Progress Bar","value":"progress_bar","visibility":"true"},"slider":{"label":"Slider","value":"slider","visibility":"true"},"social":{"label":"Social Icons","value":"social","visibility":"true"},"social_share":{"label":"Social Share","value":"social_share","visibility":"true"},"team_member":{"label":"Team Member","value":"team_member","visibility":"true"},"testimonial":{"label":"Testimonial","value":"testimonial","visibility":"true"},"toggle_content":{"label":"Toggle Content","value":"toggle_content","visibility":"true"},"typing_text":{"label":"Typing Text","value":"typing_text","visibility":"true"},"wrapper":{"label":"Wrapper","value":"wrapper","visibility":"true"},"number_counter":{"label":"Number Counter","value":"number_counter","visibility":"true"},"post_grid":{"label":"Post Grid","value":"post_grid","visibility":"true"},"feature_list":{"label":"Feature List","value":"feature_list","visibility":"true"},"row":{"label":"Row","value":"row","visibility":"true"},"table_of_contents":{"label":"Table Of Contents","value":"table_of_contents","visibility":"true"},"fluent_forms":{"label":"Fluent Forms","value":"fluent_forms","visibility":"true"},"advanced_tabs":{"label":"Advanced Tabs","value":"advanced_tabs","visibility":"true"},"advanced_navigation":{"label":"Advanced Navigation","value":"advanced_navigation","visibility":"true"},"woo_product_grid":{"label":"Woo Product Grid","value":"woo_product_grid","visibility":"true"},"advanced_image":{"label":"Advanced Image","value":"advanced_image","visibility":"true"},"wpforms":{"label":"WPForms","value":"wpforms","visibility":"true"},"post_carousel":{"label":"Post Carousel","value":"post_carousel","visibility":"true"},"advanced_video":{"label":"Advanced Video","value":"advanced_video","visibility":"true"},"popup":{"label":"Popup","value":"popup","visibility":"true"},"openverse":{"label":"Openverse","value":"openverse","visibility":"true"},"nft_gallery":{"label":"NFT Gallery","value":"nft_gallery","visibility":"true"}},"is_fluent_form_active":"","fluent_form_lists":"[]","is_wpforms_active":"false","wpforms_lists":"[\"Create a Form First\"]","is_templately_installed":"","is_templately_active":"","woocommerce_active":"false","nft_nonce":"eab125f904","openverse_nonce":"8a899f2870","openverse_item_nonce":"793f4629a2","openverse_reg_nonce":"4ec3c9cfa7","openverse_auth_nonce":"d9b20d43cd"};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=3.8.6' id='essensial-blocks-blocks-localize-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/wpzoom-portfolio/build/script.js?ver=f0806654071d159197fcf61cedea88b5' id='wpzoom-blocks-js-script-main-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/video-gallery-playlist/public/js/wpgp-youtube-gallery-public.js?ver=2.3.0' id='wpgp-youtube-gallery-js'></script>
+<script id='__ytprefs__-js-extra'>
+var _EPYT_ = {"ajaxurl":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin-ajax.php","security":"8c833d412e","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.1.4.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.1.4.1' id='__ytprefs__-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.5.3' id='um-gdpr-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/ColegioSI/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/ColegioSI/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/ColegioSI/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+			<style id="inspiro-custom-header-styles" type="text/css">
+					.site-title a,
+			.colors-dark .site-title a,
+			.colors-custom .site-title a,
+			body.has-header-image .site-title a,
+			body.has-header-video .site-title a,
+			body.has-header-image.colors-dark .site-title a,
+			body.has-header-video.colors-dark .site-title a,
+			body.has-header-image.colors-custom .site-title a,
+			body.has-header-video.colors-custom .site-title a,
+			.site-description,
+			.colors-dark .site-description,
+			.colors-custom .site-description,
+			body.has-header-image .site-description,
+			body.has-header-video .site-description,
+			body.has-header-image.colors-dark .site-description,
+			body.has-header-video.colors-dark .site-description,
+			body.has-header-image.colors-custom .site-description,
+			body.has-header-video.colors-custom .site-description {
+				color: ;
+			}
+		
+					.custom-header-button {
+				color: #ffffff;
+				border-color: #ffffff;
+			}
+		
+					.custom-header-button:hover {
+				color: #ffffff;
+			}
+		
+		
+        
+        
+        
+		            .headroom--not-top .navbar,
+			.has-header-image.home.blog .headroom--not-top .navbar, 
+			.has-header-image.inspiro-front-page .headroom--not-top .navbar, 
+			.has-header-video.home.blog .headroom--not-top .navbar, 
+			.has-header-video.inspiro-front-page .headroom--not-top .navbar {
+				background-color: rgba(0,0,0,0.9);
+			}
+				</style>
+		<style media="print">#wpadminbar { display:none; }</style>
+	<style media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	
+</head>
+
+<body class="home blog logged-in admin-bar no-customize-support wp-embed-responsive hfeed has-header-image page-layout-full-width post-display-content-excerpt full-height-iframe-video colors-light elementor-default elementor-kit-">
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/ColegioSI/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/about.php'>Acerca de WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://es.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://es.wordpress.org/support/'>Documentación</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://es.wordpress.org/support/'>Soporte</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://es.wordpress.org/support/forum/comunidad/peticiones-y-feedback/'>Sugerencias</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/ColegioSI/wp-admin/'>Colegio Santa Ines</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/'>Escritorio</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/themes.php'>Temas</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/nav-menus.php'>Menús</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/themes.php?page=custom-header'>Cabecera</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2FColegioSI%2F'>Personalizar</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">10</span><span class="screen-reader-text updates-available-text">10 actualizaciones disponibles</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-1" aria-hidden="true">1</span><span class="screen-reader-text comments-in-moderation-text">1 comentario en moderación</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/ColegioSI/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Añadir</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php'>Entrada</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/media-new.php'>Medio</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php?post_type=page'>Página</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=1ddb957087#library'>Página de destino</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php?post_type=elementor_library'>Plantilla</a></li><li id='wp-admin-bar-new-portfolio_item'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php?post_type=portfolio_item'>Portfolio Post</a></li><li id='wp-admin-bar-new-portfolio_layout'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php?post_type=portfolio_layout'>Portfolio Layout</a></li><li id='wp-admin-bar-new-zoom-meetings'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/post-new.php?post_type=zoom-meetings'>Zoom Events</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/user-new.php'>Usuario</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/ColegioSI/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/ColegioSI/wp-admin/profile.php'>Hola, <span class="display-name">Sebastian Ureta</span><img src="http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-26 um-avatar um-avatar-default" width="26" height="26" alt="Sebastian Ureta" data-default="http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute('data-load-error') ){ this.setAttribute('data-load-error', '1');this.setAttribute('src', this.getAttribute('data-default'));}" /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/ColegioSI/wp-admin/profile.php'><img src="http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" class="gravatar avatar avatar-64 um-avatar um-avatar-default" width="64" height="64" alt="Sebastian Ureta" data-default="http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg" onerror="if ( ! this.getAttribute('data-load-error') ){ this.setAttribute('data-load-error', '1');this.setAttribute('src', this.getAttribute('data-default'));}" /><span class='display-name'>Sebastian Ureta</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/ColegioSI/wp-admin/profile.php'>Editar el perfil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/ColegioSI/wp-login.php?action=logout&#038;_wpnonce=221f97766c'>Salir</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/ColegioSI/wp-login.php?action=logout&#038;_wpnonce=221f97766c">Salir</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<aside id="side-nav" class="side-nav" tabindex="-1">
+	<div class="side-nav__scrollable-container">
+		<div class="side-nav__wrap">
+			<div class="side-nav__close-button">
+				<button type="button" class="navbar-toggle">
+					<span class="screen-reader-text">Alternar la navegación</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+							<nav class="mobile-menu-wrapper" aria-label="Menú móvil" role="navigation">
+					<ul id="menu-menu" class="nav navbar-nav"><li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-38"><a href="http://localhost/ColegioSI/pagina-de-ejemplo/">Inicio</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-36"><a href="http://localhost/ColegioSI/ingreso-portal/">Ingreso Portal</a></li>
+<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://localhost/ColegioSI/clase-online/">Clase Online</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-115"><a href="http://localhost/ColegioSI/category/multimedia/">Multimedia<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://localhost/ColegioSI/multimedia/">Las Vocales</a></li>
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://localhost/ColegioSI/los-numeros/">Los Numeros</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://localhost/ColegioSI/los-colores/">Los Colores</a></li>
+</ul>
+</li>
+<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="http://localhost/ColegioSI/account/">Cuenta<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://localhost/ColegioSI/members/">Miembro</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://localhost/ColegioSI/registro-usuario/">Registro Usuario</a></li>
+	<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://localhost/ColegioSI/password-reset/">Password Reset</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://localhost/ColegioSI/logout/">Cerrar Sesión</a></li>
+</ul>
+</li>
+<li id="menu-item-222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-222"><a href="http://localhost/ColegioSI/category/juegos/">Juegos Online<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://localhost/ColegioSI/juegos/">Juegos</a></li>
+</ul>
+</li>
+</ul>				</nav>
+								</div>
+	</div>
+</aside>
+<div class="side-nav-overlay"></div>
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Saltar al contenido</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div id="site-navigation" class="navbar">
+	<div class="header-inner inner-wrap  ">
+
+		<div class="header-logo-wrapper">
+			<a href="http://localhost/ColegioSI" title="" class="custom-logo-text">Colegio Santa Ines</a>		</div>
+		
+					<div class="header-navigation-wrapper">
+				<nav class="primary-menu-wrapper navbar-collapse collapse" aria-label="Menú horizontal superior" role="navigation">
+					<ul id="menu-menu-1" class="nav navbar-nav dropdown sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-38"><a href="http://localhost/ColegioSI/pagina-de-ejemplo/">Inicio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-36"><a href="http://localhost/ColegioSI/ingreso-portal/">Ingreso Portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="http://localhost/ColegioSI/clase-online/">Clase Online</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-115"><a href="http://localhost/ColegioSI/category/multimedia/">Multimedia<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://localhost/ColegioSI/multimedia/">Las Vocales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="http://localhost/ColegioSI/los-numeros/">Los Numeros</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://localhost/ColegioSI/los-colores/">Los Colores</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-62"><a href="http://localhost/ColegioSI/account/">Cuenta<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://localhost/ColegioSI/members/">Miembro</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://localhost/ColegioSI/registro-usuario/">Registro Usuario</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://localhost/ColegioSI/password-reset/">Password Reset</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://localhost/ColegioSI/logout/">Cerrar Sesión</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-222"><a href="http://localhost/ColegioSI/category/juegos/">Juegos Online<svg class="svg-icon svg-icon-angle-down" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="21" height="32" viewBox="0 0 21 32"><path d="M19.196 13.143q0 0.232-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411z"></path></svg></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://localhost/ColegioSI/juegos/">Juegos</a></li>
+</ul>
+</li>
+</ul>				</nav>
+			</div>
+				
+		<div class="header-widgets-wrapper">
+			
+			<div id="sb-search" class="sb-search" style="display: none;">
+				
+<form method="get" id="searchform" action="http://localhost/ColegioSI/">
+	<label for="search-form-input">
+		<span class="screen-reader-text">Buscar:</span>
+		<input type="search" class="sb-search-input" placeholder="Escribe tus palabras clave y presiona Intro..." name="s" id="search-form-input" autocomplete="off" />
+	</label>
+	<button class="sb-search-button-open" aria-expanded="false">
+		<span class="sb-icon-search">
+			<svg class="svg-icon svg-icon-search" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>		</span>
+	</button>
+	<button class="sb-search-button-close" aria-expanded="false">
+		<span class="sb-icon-search">
+			<svg class="svg-icon svg-icon-cross" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>		</span>
+	</button>
+</form>
+			</div>
+
+							<button type="button" class="navbar-toggle">
+					<span class="screen-reader-text">Alternar la barra lateral y la navegación</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+					</div>
+	</div><!-- .inner-wrap -->
+</div><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+    
+	<div class="custom-header">
+	<div class="site-branding">
+	<div class="inner-wrap">
+		
+		<div class="site-branding-text">
+			
+							<small class="edit-link"><a href="http://localhost/ColegioSI/wp-admin/customize.php?autofocus%5Bpanel%5D=homepage_media_panel">[Editar]</a></small>
+			
+							<h1 class="site-title"><a href="" target="_blank">Colegio Santa Ines</a></h1>
+			
+					</div><!-- .site-branding-text -->
+
+		<div class="custom-header-button-wrapper">
+		<a class="custom-header-button button" href="" target="_blank" rel="nofollow" style="display: none;">
+			</a>
+</div><!-- .custom-header-button -->
+
+	</div><!-- .inner-wrap -->
+</div><!-- .site-branding -->
+
+    
+	<div class="custom-header-media">
+		<div id="wp-custom-header" class="wp-custom-header"><img src="http://localhost/ColegioSI/wp-content/uploads/2023/01/COLE.jpg" width="877" height="372" alt="" /></div>	</div>
+
+		<div id="scroll-to-content" title="Scroll abajo para ver el contenido">
+		<span class="screen-reader-text">Scroll abajo para ver el contenido</span>
+	</div>
+	</div><!-- .custom-header -->
+
+	<div class="site-content-contain">
+		<div id="content" class="site-content">
+
+<div class="inner-wrap">
+		<header class="page-header">
+		<h2 class="page-title">Últimas entradas</h2>
+	</header>
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-sin-categoria">
+
+	
+
+
+
+
+<header class="entry-header">
+
+	<h3 class="entry-title"><a href="http://localhost/ColegioSI/2023/01/20/hola-mundo/" rel="bookmark">Colegio Santa Inés</a></h3><div class="entry-meta"><span class="entry-author">por <a class="url fn n" href="http://localhost/ColegioSI/author/sebastian-ureta/">Sebastian Ureta</a></span><span class="entry-categories cat-links"><a href="http://localhost/ColegioSI/category/sin-categoria/">Sin categoría</a></span><span class="entry-date"><span class="screen-reader-text">Publicado el</span> <time class="entry-date published" datetime="2023-01-20T22:06:32-03:00">enero 20, 2023</time><time class="updated" datetime="2023-01-21T20:04:40-03:00">enero 21, 2023</time></span><span class="entry-comments"><a href="http://localhost/ColegioSI/2023/01/20/hola-mundo/#comments">Un comentario</a></span><span class="edit-link"><a class="post-edit-link" href="http://localhost/ColegioSI/wp-admin/post.php?post=1&#038;action=edit">Editar<span class="screen-reader-text"> "Colegio Santa Inés"</span></a></span></div><!-- .entry-meta --></header><!-- .entry-header -->
+
+
+			<div class="entry-summary">
+			<p>Bienvenido a la plataforma educativa de Colegio Santa Inés, San Antonio, V Región,</p>
+		</div><!-- .entry-summary -->
+	
+	
+	
+	
+	
+</article><!-- #post-1 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	
+</div><!-- .inner-wrap -->
+
+
+		</div><!-- #content -->
+
+		
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="inner-wrap">
+				
+<div class="site-info">
+		<span class="copyright">
+		<span>
+			<a href="https://es.wordpress.org/" target="_blank">
+				Funciona con WordPress			</a>
+		</span>
+		<span>
+			Inspiro WordPress Theme por <a href="https://www.wpzoom.com/" target="_blank" rel="nofollow">WPZOOM</a>
+		</span>
+	</span>
+</div><!-- .site-info -->
+			</div><!-- .inner-wrap -->
+		</footer><!-- #colophon -->
+	</div><!-- .site-content-contain -->
+</div><!-- #page -->
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"
+	   aria-label="Cerrar la vista emergente de la foto">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div><script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Saltar</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Cerrar"></i>
+				<span class="elementor-screen-only">Cerrar</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Teclea para encontrar lo que sea en Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Ningún resultado</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script src='http://localhost/ColegioSI/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/admin-bar.min.js?ver=6.1.1' id='admin-bar-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7' id='wp-url-js'></script>
+<script id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-11-10 18:26:16+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"You are probably offline.":["Probablemente est\u00e1s desconectado."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["La subida de medios ha fallado. Si esto es una foto o una imagen grande, por favor, reduce su tama\u00f1o e int\u00e9ntalo de nuevo."],"The response is not a valid JSON response.":["Las respuesta no es una respuesta JSON v\u00e1lida."],"An unknown error occurred.":["Ha ocurrido un error desconocido."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311' id='wp-api-fetch-js'></script>
+<script id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://localhost/ColegioSI/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "3bf5b46122" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "http://localhost/ColegioSI/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script src='http://localhost/ColegioSI/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/wpzoom-portfolio/build/blocks/portfolio/script.js?ver=7835e25647330c3240edb6c3dff0e0cd' id='wpzoom-blocks-js-script-portfolio-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"http:\/\/localhost\/ColegioSI\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2' id='contact-form-7-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/essential-blocks/assets/js/eb-animation-load.js?ver=3.8.6' id='essential-blocks-eb-animation-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/themes/inspiro/assets/js/minified/plugins.min.js?ver=1.7.8' id='inspiro-lite-js-plugins-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/themes/inspiro/assets/js/minified/scripts.min.js?ver=1.7.8' id='inspiro-lite-script-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.10.1' id='elementor-common-modules-js'></script>
+<script id='elementor-web-cli-js-before'>
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/ColegioSI\/wp-json\/","assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"3bf5b46122","version":"3.10.1"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/ColegioSI\/wp-json\/","assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"3bf5b46122","version":"3.10.1"};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.10.1' id='elementor-web-cli-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"http:\/\/localhost\/ColegioSI\/wp-json\/","nonce":"3bf5b46122","versionString":"wp\/v2\/"};
+</script>
+<script src='http://localhost/ColegioSI/wp-includes/js/api-request.min.js?ver=6.1.1' id='wp-api-request-js'></script>
+<script id='elementor-dev-tools-js-before'>
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.1"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.1"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.1"}};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.10.1' id='elementor-dev-tools-js'></script>
+<script id='elementor-common-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2023-01-09 15:04:07+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Import Without Enabling":["Importar sin activar"],"Enable and Import":["Activar e importar"],"If you do not enable uploading unfiltered files, any SVG or JSON (including lottie) files used in the uploaded template will not be imported.":["Si no activas la subida de archivos no filtrados, no se importar\u00e1n los archivos SVG o JSON (incluyendo lottie) utilizados en la plantilla subida."],"The file exceeds the maximum upload size for this site.":["El archivo supera el tama\u00f1o m\u00e1ximo de subida de este sitio."],"Uploading...":["Subiendo..."],"Enable Unfiltered File Uploads":["Permitir la subida de archivos sin filtrar"],"Unable to connect":["No ha sido posible conectar"],"Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.":["Antes de que actives la subida de archivos sin filtrar, ten en cuenta que este tipo de archivos implican un riesgo de seguridad. Elementor ejecuta un proceso para eliminar el posible c\u00f3digo malicioso, pero todav\u00eda hay un riesgo inherente al usar estos archivos."],"Finder":["Buscador"],"Enable":["Activar"],"Cancel":["Cancelar"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+</script>
+<script id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.10.1","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"kit-elements-defaults":true},"urls":{"assets":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/","rest":"http:\/\/localhost\/ColegioSI\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":false,"subscription_plans":{"0":{"label":null,"promotion_url":null,"color":null},"1":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"20":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=goexpert","color":"#010051"}},"base_access_level":0,"current_access_level":0},"ajax":{"url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin-ajax.php","nonce":"703358e53b"},"finder":{"data":{"edit":{"title":"Editar","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Plantillas guardadas","icon":"library-save","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informaci\u00f3n del sistema","icon":"info-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gestor de perfiles","icon":"person","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de conocimiento","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Maquetador de temas","icon":"library-save","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-app&ver=3.10.1#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Biblioteca de kits","icon":"kit-parts","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-app&ver=3.10.1#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Crear","dynamic":false,"items":{"page":{"title":"A\u00f1adir una nueva plantilla de p\u00e1gina","icon":"plus-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=1ddb957087","keywords":["A\u00f1adir una nueva plantilla de p\u00e1gina","post","page","template","new","create"]},"section":{"title":"A\u00f1adir nueva Secci\u00f3n","icon":"plus-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=1ddb957087","keywords":["A\u00f1adir nueva Secci\u00f3n","post","page","template","new","create"]},"wp-post":{"title":"A\u00f1adir nueva Entrada","icon":"plus-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=1ddb957087","keywords":["A\u00f1adir nueva Entrada","post","page","template","new","create"]},"wp-page":{"title":"A\u00f1adir nueva P\u00e1gina","icon":"plus-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=1ddb957087","keywords":["A\u00f1adir nueva P\u00e1gina","post","page","template","new","create"]},"landing-page":{"title":"A\u00f1adir nueva P\u00e1gina de destino","icon":"plus-circle-o","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=1ddb957087#library","keywords":["A\u00f1adir nueva P\u00e1gina de destino","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Sitio","dynamic":false,"items":{"homepage":{"title":"P\u00e1gina de inicio","url":"http:\/\/localhost\/ColegioSI","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Escritorio","icon":"dashboard","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Men\u00fas","icon":"wordpress","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Temas","icon":"wordpress","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Personalizador","icon":"wordpress","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Usuarios","icon":"wordpress","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Ajustes","dynamic":false,"items":{"general-settings":{"title":"Ajustes generales","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Avanzado","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experimentos","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Herramientas","dynamic":false,"items":{"tools":{"title":"Herramientas","icon":"tools","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Reemplazar URL","icon":"tools","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Modo de mantenimiento","icon":"tools","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Importar \/ Exportar","icon":"import-export","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Control de versiones","icon":"time-line","url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.10.1' id='elementor-common-js'></script>
+<script id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-app&ver=3.10.1#site-editor\/promotion","assets_url":"http:\/\/localhost\/ColegioSI\/wp-content\/plugins\/elementor\/assets\/","return_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/plugin-editor.php?plugin=video-conferencing-with-zoom-api%2Fvideo-conferencing-with-zoom-api.php&Submit=Seleccionar","hasPro":false,"admin_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/","login_url":"http:\/\/localhost\/ColegioSI\/wp-login.php","base_url":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin.php?page=elementor-app&ver=3.10.1","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.10.1' id='elementor-app-loader-js'></script>
+<script id='eael-general-js-extra'>
+var localize = {"ajaxurl":"http:\/\/localhost\/ColegioSI\/wp-admin\/admin-ajax.php","nonce":"39f0af8c31","i18n":{"added":"A\u00f1adido","compare":"Comparar","loading":"Cargando..."},"page_permalink":"http:\/\/localhost\/ColegioSI\/2023\/01\/20\/hola-mundo\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.5.2' id='eael-general-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=4.0.13' id='select2-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/ColegioSI\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://localhost/ColegioSI/wp-includes/js/wp-util.min.js?ver=6.1.1' id='wp-util-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.5.3' id='um_crop-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.5.3' id='um_modal-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.5.3' id='um_jquery_form-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-fileupload.js?ver=2.5.3' id='um_fileupload-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.5.3' id='um_datetime-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.5.3' id='um_datetime_date-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.5.3' id='um_datetime_time-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/es_ES.js?ver=2.5.3' id='um_datetime_locale-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.5.3' id='um_raty-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.5.3' id='um_tipsy-js'></script>
+<script src='http://localhost/ColegioSI/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.5.3' id='um_scrollbar-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.5.3' id='um_functions-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.5.3' id='um_responsive-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.5.3' id='um_conditional-js'></script>
+<script id='um_scripts-js-extra'>
+var um_scripts = {"max_upload_size":"41943040","nonce":"d70aca330e"};
+</script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.5.3' id='um_scripts-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.5.3' id='um_profile-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.5.3' id='um_account-js'></script>
+<script src='http://localhost/ColegioSI/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.1.4.1' id='__ytprefsfitvids__-js'></script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+	
+</body>
+</html>
